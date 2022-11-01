@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924868414816",
+    "project_id": "fineline-vpn",
+    "storage_bucket": "fineline-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924868414816:android:6b64a5fa1cf1e8461a6205",
+        "android_client_info": {
+          "package_name": "com.fineline.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924868414816-93thbmhb9mppbj38n929p0i0n63dob5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCcKED9wUL1M0ZA6SoVM1R7ChVkTeJI8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924868414816-93thbmhb9mppbj38n929p0i0n63dob5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
